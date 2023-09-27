@@ -7,13 +7,13 @@
 	border-radius: 5px;
 	font-size: 40px;
 	justify-content: center;
-	align-item: center;
 	
 }
 .grid-container{
 	display: grid;
 	gap: 10px 10px;
   grid-template-rows: auto;
-	ggrid-template-column: auto;
+	grid-template-column: auto;
+	justify-content: center;
 }
 
