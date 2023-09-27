@@ -8,12 +8,12 @@
 	font-size: 40px;
 	justify-content: center;
 	align-item: center;
-	flex: wrap;
 	
 }
 .grid-container{
 	display: grid;
+	display:flex;
 	gap: 10px 10px;
-	
+flex-wrap: wrap
 }
 
